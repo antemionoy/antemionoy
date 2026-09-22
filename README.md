@@ -11,13 +11,15 @@
 
 ### What I do
 
-One of my key projects is a product running across four platforms at once: web with Next.js, mobile with React Native (Expo), desktop with Electron (Windows and macOS), and an embeddable chat widget for third-party sites. Everything is held together by a shared design system in a pnpm monorepo - a token package, a theme, a platform-agnostic core, and separate UI packages for web and React Native. One token change updates the look across all four platforms.
+Senior Frontend Engineer with 9 years of experience. I build product interfaces that stay fast under real traffic - ecommerce marketplaces, internal dashboards, component libraries and design systems. The last few years as a tech lead - sprint planning, code reviews, architecture decisions, hiring and onboarding.
 
-On the backend I write services with NestJS and Node.js, working with MongoDB, PostgreSQL, Redis and Kafka. Set up CI/CD, linting and tests on PRs, auto-deploy and runners. Monitoring with Prometheus and Grafana, log collection via Loki.
-
-I'm building a project - a B2B/B2C platform. It includes ML analysis of photos (FastAPI, Docker, YOLOv8, Label Studio, MLflow) and a local RAG assistant (Ollama, Qdrant).
+I know the full stack. On the backend I write services with NestJS and Node.js, working with MongoDB, PostgreSQL, Redis and Kafka. Set up CI/CD, linting and tests on PRs, auto-deploy and runners. Monitoring with Prometheus and Grafana, log collection via Loki.
 
 AI tools are part of my daily workflow. Claude Code, Codex, Cursor. I use MCP servers. I compare models on real tasks and build pipelines for code review and test generation.
+
+One of my key projects is a product running across four platforms at once - web with Next.js, mobile with React Native (Expo), desktop with Electron (Windows and macOS), and an embeddable chat widget for third-party sites. Everything is held together by a shared design system in a pnpm monorepo - a token package, a theme, a platform-agnostic core, and separate UI packages for web and React Native. One token change updates the look across all four platforms.
+
+I'm also building a project - a B2B/B2C platform. It includes ML analysis of photos (FastAPI, Docker, YOLOv8, Label Studio, MLflow) and a local RAG assistant (Ollama, Qdrant).
 
 ---
 
