@@ -1,24 +1,21 @@
-<h1 align="center">Hi, I'm Anton 👋</h1>
+# Hi, I'm Anton 👋
 
-<p align="center">
-  Senior Frontend Engineer · 9 years · React / TypeScript / Next.js
-</p>
+**Senior Frontend Engineer** · 9 years · React / TypeScript / Next.js
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/antemionoy">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=antemionoy&style=for-the-badge&color=blueviolet" />
-</p>
+<a href="https://www.linkedin.com/in/antemionoy">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=antemionoy&style=for-the-badge&color=blueviolet" />
 
 ---
 
 ### What I do
 
-Frontend engineer with 9 years of experience building product interfaces - ecommerce platforms, internal tools and design systems. I have worked as a team lead, planned sprints, conducted code reviews and hired developers. Beyond the frontend I have solid backend experience: Node.js services, REST and WebSocket APIs, MongoDB, Redis, Kafka, and observability with Sentry, Prometheus and Grafana.
+I build product interfaces that stay fast under real traffic - ecommerce marketplaces, internal dashboards, component libraries and design systems. Nine years in frontend, the last few as a tech lead: sprint planning, code reviews, architecture decisions, hiring and onboarding.
 
-I use Claude Code, Codex and Cursor every day - spec first, small tasks, tests as a fence, review every diff myself.
+I know the full stack. On the backend I write Node.js services (Express and Fastify), design REST and WebSocket APIs, work with MongoDB, Redis and Kafka. I set up observability with Sentry, OpenTelemetry, Prometheus and Grafana and care about what happens after deploy.
+
+I use Claude Code, Codex and Cursor daily - spec first, small tasks, tests as a fence, review every diff myself.
 
 ---
 
@@ -35,6 +32,7 @@ I use Claude Code, Codex and Cursor every day - spec first, small tasks, tests a
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
+  <img src="https://img.shields.io/badge/Module_Federation-20232A?style=flat-square&logo=webpack&logoColor=61DAFB" />
 </p>
 
 **Backend & Infra**
@@ -42,25 +40,21 @@ I use Claude Code, Codex and Cursor every day - spec first, small tasks, tests a
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
 </p>
 
 ---
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antemionoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antemionoy&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=antemionoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
----
-
-<p align="center">Open to remote roles and relocation to EU. Available immediately.</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antemionoy&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
