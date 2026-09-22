@@ -55,6 +55,6 @@ I use Claude Code, Codex and Cursor daily - spec first, small tasks, tests as a 
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=antemionoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=antemionoy&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antemionoy&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antemionoy&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/antemionoy)
